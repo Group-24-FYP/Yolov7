@@ -1,3 +1,4 @@
 python detect_or_track.py --source F:/Education/FYP/Cam/code/brush.mp4 --track --classes 79
 
 python detect_or_track.py --source F:/Education/FYP/Cam/code/brush.mp4 --track --device cpu --classes 79
+hey
