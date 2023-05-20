@@ -6,7 +6,12 @@ python detect_or_track.py --source F:/Education/FYP/Cam/code/brush.mp4 --track -
 
 python detect_or_track.py --source F:/Education/FYP/Cam/code/brush.mp4 --track --classes 79
 
+# Input of this model
 
-## The inferred video stream with the bounding boxes will be saved to ..\yolov7\runs\detect
+This will process a video frame saved locally
 
-## The detected objects will be saved to ..\yolov7\objects
+# Outputs of this model
+
+The inferred video stream with the bounding boxes will be saved to ..\yolov7\runs\detect
+
+The detected objects will be saved to ..\yolov7\objects
